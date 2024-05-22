@@ -1,4 +1,7 @@
-# djobi_2
+# Djobi 
+# Service reparation online 
+# you cand add your repared product  and edit the status 
+# your client can check her product use mobile or web version 
 
 A new Flutter project.
 
